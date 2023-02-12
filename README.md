@@ -1,4 +1,4 @@
-# Data Structure and algorithm in Javascript
+# Data Structures and algorithm in Javascript
 
 ## What is Data Structure?
 
