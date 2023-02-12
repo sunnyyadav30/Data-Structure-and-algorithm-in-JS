@@ -4,7 +4,7 @@
 
 A data structure is defined as a particular way of storing and organizing data in our devices to use the data efficiently and effectively. The main idea behind using data structures is to minimize the time and space complexities. An efficient data structure takes minimum memory space and requires minimum time to execute the data.
 
-## Types of Data Structures
+## [Types of Data Structures](https://github.com/sunnyyadav30/Data-Structure-and-algorithm-in-JS/tree/master/Data-Structures)
 
 1. [Linear Data Structure](https://github.com/sunnyyadav30/Data-Structure-and-algorithm-in-JS/tree/master/Data-Structures/Linear-DSA)
 2. [Non Linear Data Structure](https://github.com/sunnyyadav30/Data-Structure-and-algorithm-in-JS/tree/master/Data-Structures/Non-Linear-DSA)
