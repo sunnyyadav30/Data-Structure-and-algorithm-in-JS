@@ -7,7 +7,13 @@ A data structure is defined as a particular way of storing and organizing data i
 ## [Types of Data Structures](https://github.com/sunnyyadav30/Data-Structure-and-algorithm-in-JS/tree/master/Data-Structures)
 
 1. [Linear Data Structure](https://github.com/sunnyyadav30/Data-Structure-and-algorithm-in-JS/tree/master/Data-Structures/Linear-DSA)
+   - [Array](https://github.com/sunnyyadav30/Data-Structure-and-algorithm-in-JS/tree/master/Data-Structures/Linear-DSA/Arrays)
+   - [Linked List](https://github.com/sunnyyadav30/Data-Structure-and-algorithm-in-JS/tree/master/Data-Structures/Linear-DSA/Linked-list)
+   - [Stack](https://github.com/sunnyyadav30/Data-Structure-and-algorithm-in-JS/tree/master/Data-Structures/Linear-DSA/Queue)
+   - [Queue](https://github.com/sunnyyadav30/Data-Structure-and-algorithm-in-JS/tree/master/Data-Structures/Linear-DSA/Stack)
 2. [Non Linear Data Structure](https://github.com/sunnyyadav30/Data-Structure-and-algorithm-in-JS/tree/master/Data-Structures/Non-Linear-DSA)
+   - [Graph](https://github.com/sunnyyadav30/Data-Structure-and-algorithm-in-JS/tree/master/Data-Structures/Non-Linear-DSA/Graph)
+   - [Tree](https://github.com/sunnyyadav30/Data-Structure-and-algorithm-in-JS/tree/master/Data-Structures/Non-Linear-DSA/Tree)
 
 ## What is Algorithm?
 
