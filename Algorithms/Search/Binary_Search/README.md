@@ -15,7 +15,7 @@ Binary Search Algorithm: The basic steps to perform Binary Search are:
 Binary Search Algorithm can be implemented in the following two ways
 
 1.  Iterative Method
-    <sub>
+    <sup>
     binarySearch(arr, x, low, high)
     repeat till low = high
     mid = (low + high)/2
@@ -28,10 +28,10 @@ Binary Search Algorithm can be implemented in the following two ways
                    else                  // x is on the left side
                        high = mid - 1
 
-    </sub>
+    </sup>
 
 2.  Recursive Method
-    <sub>
+    <sup>
     binarySearch(arr, x, low, high)
     if low > high
     return False
@@ -47,4 +47,4 @@ Binary Search Algorithm can be implemented in the following two ways
                    else                        // x is on the left side
                        return binarySearch(arr, x, low, mid - 1)
 
-    </sub>
+    </sup>
