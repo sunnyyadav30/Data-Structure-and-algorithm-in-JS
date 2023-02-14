@@ -21,7 +21,7 @@ Algorithm is defined as a process or set of well-defined instructions that are t
 
 # Search Algorithm
 
-    - [Binary Search]()
+- [Binary Search](https://github.com/sunnyyadav30/Data-Structure-and-algorithm-in-JS/tree/master/Algorithms/Search/Binary_Search)
 
 # Reference
 
