@@ -16,11 +16,12 @@ Binary Search Algorithm can be implemented in the following two ways
 
 1.  Iterative Method
     <sup>
-    binarySearch(arr, x, low, high)
-    repeat till low = high
-    mid = (low + high)/2
-    if (x == arr[mid])
-    return mid
+
+        binarySearch(arr, x, low, high)
+            repeat till low = high
+               mid = (low + high)/2
+                   if (x == arr[mid])
+                   return mid
 
                    else if (x > arr[mid]) // x is on the right side
                        low = mid + 1
@@ -32,19 +33,20 @@ Binary Search Algorithm can be implemented in the following two ways
 
 2.  Recursive Method
     <sup>
-    binarySearch(arr, x, low, high)
-    if low > high
-    return False
 
-               else
-                   mid = (low + high) / 2
-                       if x == arr[mid]
-                       return mid
+        binarySearch(arr, x, low, high)
+           if low > high
+               return False
 
-                   else if x > arr[mid]        // x is on the right side
-                       return binarySearch(arr, x, mid + 1, high)
+           else
+               mid = (low + high) / 2
+                   if x == arr[mid]
+                   return mid
 
-                   else                        // x is on the left side
-                       return binarySearch(arr, x, low, mid - 1)
+               else if x > arr[mid]        // x is on the right side
+                   return binarySearch(arr, x, mid + 1, high)
+
+               else                        // x is on the left side
+                   return binarySearch(arr, x, low, mid - 1)
 
     </sup>
